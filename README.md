@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Digital_Clock
-Best design with full animation
-=======
 # Digital Clock
 
 A modern, futuristic digital clock web application with stunning visual effects and animations. Features a sleek cyan-themed design with glowing effects, scanlines, and smooth animations.
@@ -97,9 +93,6 @@ You can easily customize the clock by modifying `style.css`:
 
 This project is open source and available for personal and commercial use.
 
-## Author
-
-Created as part of an Advanced Projects collection.
 
 ---
 
