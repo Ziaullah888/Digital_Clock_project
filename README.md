@@ -97,5 +97,3 @@ This project is open source and available for personal and commercial use.
 ---
 
 Enjoy your futuristic digital clock! ⏰
-
->>>>>>> 96c5c17 (update README.md)
